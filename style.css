@@ -1,0 +1,106 @@
+.header-cont{
+    background-image: url(images/img01.jpg);
+}
+
+.flower1{
+    width: 100%;
+}
+
+.navbar-brand{
+    font-size: xx-large;
+    color:black
+}
+
+.nav-link{
+    color:black !important;
+}
+
+.nav-item:hover{
+    background-color:white;
+    border-radius: 5px;
+}
+
+.second-row{
+    margin-top: 25px;
+}
+
+.second-1{
+    text-align:left ;
+}
+
+.readmore{
+    background-image: url(images/img05.jpg);
+    color:white;
+    padding:10px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.third{
+    margin-top:50px;
+}
+
+
+.third-2{
+    padding: 10px 85px;
+
+}
+
+.heading-third{
+    margin-bottom:20px;
+}
+
+.pointer{
+    display: inline;
+}
+
+.inline-text{
+    display: inline;
+    padding-left:10px;
+}
+
+.collapsed{
+    font-size: medium;
+    padding-left:15px;
+    margin-bottom:10px;
+}
+
+.collapsed-cont{
+    border-bottom: 1px solid rgba(128,128,128,0.5);
+    padding-bottom:5px;
+}
+
+
+.fourth-row{
+    margin-top:75px;
+    background-image: url(images/img05.jpg);
+    padding-top: 40px;
+}
+
+.four-header{
+    color:white;
+    font-size: x-large;
+}
+
+.four-list{
+    color:rgb(184, 244, 176 );
+    list-style:none;
+    padding-left:5px;
+    
+}
+
+.four-li{
+    margin-bottom: 10px;
+}
+
+.footnote{
+    text-align: center;
+    padding:100px 100px 200px 150px;
+    background-image: url(images/img01.jpg);
+    width:100%;
+}
+
+.underline{
+    text-decoration: underline;
+}
